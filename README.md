@@ -22,3 +22,24 @@ When compared to other spellcheckers on the [trspell-10](https://data.tdd.ai/#/3
 - Deniz Yuret
 - Emirhan Kurtuluş
 - Taner Sezer
+
+## Citation
+
+```
+@inproceedings{safaya-etal-2022-mukayese,
+    title = "Mukayese: {T}urkish {NLP} Strikes Back",
+    author = "Safaya, Ali  and
+      Kurtulu{\c{s}}, Emirhan  and
+      Goktogan, Arda  and
+      Yuret, Deniz",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2022",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-acl.69",
+    doi = "10.18653/v1/2022.findings-acl.69",
+    pages = "846--863",
+    abstract = "Having sufficient resources for language X lifts it from the under-resourced languages class, but not necessarily from the under-researched class. In this paper, we address the problem of the absence of organized benchmarks in the Turkish language. We demonstrate that languages such as Turkish are left behind the state-of-the-art in NLP applications. As a solution, we present Mukayese, a set of NLP benchmarks for the Turkish language that contains several NLP tasks. We work on one or more datasets for each benchmark and present two or more baselines. Moreover, we present four new benchmarking datasets in Turkish for language modeling, sentence segmentation, and spell checking. All datasets and baselines are available under: https://github.com/alisafaya/mukayese",
+}
+```
